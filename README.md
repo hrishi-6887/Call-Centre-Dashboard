@@ -34,18 +34,22 @@ All insights are derived from a structured dataset containing:
 
 ## 📈 Insights Gained
 
-- Which day of the week had the highest call volume
-- Top-performing representatives by revenue and call count
-- Gender and city distributions of callers
-- Ratings trends and average satisfaction scores
-- Correlation between call duration and satisfaction
+- Identified peak call days for each representative.
+- Analyzed monthly call trends to track performance over time.
+- Used Pivot Tables for all key calculations in the dashboard.
+- Built interactive Pivot Charts with slicers for dynamic filtering.
+- Applied conditional formatting to highlight key insights visually.
+- Evaluated representative performance based on call duration, call ratings and revenue.
+- Created a city-wise revenue split (pie chart) to support marketing and service planning.
 
 ## 🧠 Learnings
 
 This project helped me understand:
-- Data wrangling and cleaning within Excel
-- The power of pivot tables in generating instant summaries
-- Best practices for dashboard design and storytelling using visuals
+- Built a complete dashboard using Excel tools.
+- Cleaned and structured raw data for analysis.
+- Analyzed trends in customer behavior and agent performance.
+- Practiced data storytelling using charts and visuals.
+- Sharpened Excel skills for real-world reporting tasks.
 
 
 
